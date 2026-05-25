@@ -1,9 +1,9 @@
-pandas 
+pandas
 streamlit
-joblib
 scikit-learn
-pydantic
+joblib
 fastapi
+pydantic
 
 
 

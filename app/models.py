@@ -1,8 +1,7 @@
-
 import joblib
-MODEL_PATH = 'models/model.pkl'
-SCALER_PATH ='models/scaler.pkl' 
 
+MODEL_PATH = 'models/model.pkl'
+SCALER_PATH = 'models/scaler.pkl'
 
 def load_model_scaler():
     model = joblib.load(MODEL_PATH)
