@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 
-API_URL = 'http://127.0.0.1:8000/predict-cardio'
+API_URL = 'https://cardio-vascular-disease-prediction-0tdt.onrender.com/predict-cardio'
 
 st.title('Cardiovascular Disease Prediction', text_alignment='left')
 st.subheader('_Using_ :red[Logistic] _Regression_ :blue[Model]', text_alignment='left')
