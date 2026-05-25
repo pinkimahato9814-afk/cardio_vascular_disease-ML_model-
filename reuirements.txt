@@ -1,0 +1,10 @@
+pandas 
+streamlit
+joblib
+scikit-learn
+pydantic
+fastapi
+
+
+
+
